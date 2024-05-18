@@ -8,7 +8,7 @@ from kasa import SmartStrip
 # Configuration
 CHECK_INTERVAL = 60  # 1 minute
 URL = "https://birdnetaz.com/"
-PLUG_IP = "192.168.0.100"  # Replace with your smart strip IP
+PLUG_IP = "192.168.0.62"  # Replace with your smart strip IP
 PLUG_NAME = "Plug 5"  # Replace with your smart strip port name
 
 # Prometheus metric
